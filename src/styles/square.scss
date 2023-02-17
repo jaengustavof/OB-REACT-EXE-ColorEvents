@@ -1,0 +1,14 @@
+.square-container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+
+.square-content-container {
+    width: 255px;
+    height: 255px;
+    background-color: red;
+}
